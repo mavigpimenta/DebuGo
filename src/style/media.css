@@ -1,0 +1,14 @@
+@media (max-width: 900px) {
+    #nav-computer {
+        display: none;
+    }
+    #nav--computer {
+        display: none;
+    }
+} 
+
+@media (min-width: 900px) {
+    #nav-mobile {
+        display: none;
+    }
+}
